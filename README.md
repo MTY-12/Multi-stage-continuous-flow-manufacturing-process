@@ -1,2 +1,3 @@
-# Multi-stage-continuous-flow-manufacturing-process
-The goal is to predict certain properties of the line's output from the various input data. The line is a high-speed, continuous manufacturing process with parallel and series stages.
+## Data Science Project Template
+
+You can use this template to structure your Python data science projects. It is based on [Cookie Cutter Data Science](https://drivendata.github.io/cookiecutter-data-science/).
